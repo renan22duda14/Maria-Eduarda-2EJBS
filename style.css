@@ -18,3 +18,9 @@
 .lista-item{
     display: inline-block;
 }
+
+.principal{ 
+        background-image: linear-gradient(#424e61,white);
+        height: 500px;
+
+}
