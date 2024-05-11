@@ -1,33 +1,33 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: 0%;
+    padding: 0%;
     }
 
 .cabecalho{
-    background-color: #424e61;
+    background-color: #030301;
     display: flex;
-
     justify-content: space-around;
+    align-items: center;
 }
 
 .lista-cabecalho{
-    color: white;
+    color: rgb(250, 250, 250);
     font-size: 23px;
 }
 
 .lista-item{
     display: inline-block;
+    padding: 20px;
 }
 
 .principal{ 
-        background-image: linear-gradient(#424e61,white);
+        background-image: linear-gradient(#030301,rgb(252, 232, 119));
         height: 500px;
         padding: 100px;
         color: white;
         display:flex;
+        align-content: space-around;
         align-items: center;
-        justify-content: space-around;
-
 }
 
 .primeiro-paragrafo{
@@ -39,11 +39,12 @@
 }
 
 .educacao{
-    width: 15px;
+    width: 35%;
 }
 
-.oi{
-    width: 35%;
+.texto{
+    padding: 15;
+    width: 35px;
 }
 
 
